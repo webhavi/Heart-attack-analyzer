@@ -19,7 +19,7 @@
 
 ---
 
-## 🧭 Quick Navigation
+## 🧭 Quick Navigations
 
 | 🚀 | 📐 | 🔬 | 📊 | 🛠️ |
 |:--:|:--:|:--:|:--:|:--:|
