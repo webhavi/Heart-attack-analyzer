@@ -399,7 +399,7 @@ jupyter
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <div align="center">
 
